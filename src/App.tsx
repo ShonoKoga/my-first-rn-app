@@ -11,11 +11,12 @@ import {
   // ActivityIndicator,
   // Switch,
   // Alert,
-  AppState,
+  // AppState,
+  AsyncStorage,
 } from './components';
 
 const Component = () => {
-  return <AppState />;
+  return <AsyncStorage />;
 };
 
 export default Component;
