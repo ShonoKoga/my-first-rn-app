@@ -6,11 +6,12 @@ import {
   // FlatList,
   // SectionList,
   // Touchable,
-  TextInput,
+  // TextInput,
+  StatusBar,
 } from './components';
 
 const Component = () => {
-  return <TextInput />;
+  return <StatusBar />;
 };
 
 export default Component;
