@@ -8,11 +8,12 @@ import {
   // Touchable,
   // TextInput,
   // StatusBar,
-  ActivityIndicator,
+  // ActivityIndicator,
+  Switch,
 } from './components';
 
 const Component = () => {
-  return <ActivityIndicator />;
+  return <Switch />;
 };
 
 export default Component;
