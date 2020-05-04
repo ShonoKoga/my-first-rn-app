@@ -11,3 +11,4 @@ export { default as Switch } from './Switch';
 export { default as Alert } from './Alert';
 export { default as AppState } from './AppState';
 export { default as AsyncStorage } from './AsyncStorage';
+export { default as SafeAreaView } from './SafeAreaView';

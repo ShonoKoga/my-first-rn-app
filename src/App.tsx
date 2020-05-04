@@ -12,11 +12,12 @@ import {
   // Switch,
   // Alert,
   // AppState,
-  AsyncStorage,
+  // AsyncStorage,
+  SafeAreaView,
 } from './components';
 
 const Component = () => {
-  return <AsyncStorage />;
+  return <SafeAreaView />;
 };
 
 export default Component;
