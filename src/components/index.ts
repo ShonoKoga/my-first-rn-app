@@ -13,3 +13,4 @@ export { default as AppState } from './AppState';
 export { default as AsyncStorage } from './AsyncStorage';
 export { default as SafeAreaView } from './SafeAreaView';
 export { default as Progress } from './Progress';
+export { default as Animation } from './Animation';
