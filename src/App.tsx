@@ -9,11 +9,12 @@ import {
   // TextInput,
   // StatusBar,
   // ActivityIndicator,
-  Switch,
+  // Switch,
+  Alert,
 } from './components';
 
 const Component = () => {
-  return <Switch />;
+  return <Alert />;
 };
 
 export default Component;
