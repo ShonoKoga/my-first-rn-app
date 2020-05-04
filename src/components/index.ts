@@ -4,3 +4,4 @@ export { default as ScrollView } from './ScrollView';
 export { default as FlatList } from './FlatList';
 export { default as SectionList } from './SectionList';
 export { default as Touchable } from './Touchable';
+export { default as TextInput } from './TextInput';

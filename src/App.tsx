@@ -5,11 +5,12 @@ import {
   // ScrollView,
   // FlatList,
   // SectionList,
-  Touchable,
+  // Touchable,
+  TextInput,
 } from './components';
 
 const Component = () => {
-  return <Touchable />;
+  return <TextInput />;
 };
 
 export default Component;
