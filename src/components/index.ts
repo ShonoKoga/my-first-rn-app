@@ -12,3 +12,4 @@ export { default as Alert } from './Alert';
 export { default as AppState } from './AppState';
 export { default as AsyncStorage } from './AsyncStorage';
 export { default as SafeAreaView } from './SafeAreaView';
+export { default as Progress } from './Progress';

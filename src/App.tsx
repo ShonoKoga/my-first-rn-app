@@ -13,11 +13,12 @@ import {
   // Alert,
   // AppState,
   // AsyncStorage,
-  SafeAreaView,
+  // SafeAreaView,
+  Progress,
 } from './components';
 
 const Component = () => {
-  return <SafeAreaView />;
+  return <Progress />;
 };
 
 export default Component;
