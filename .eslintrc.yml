@@ -27,4 +27,6 @@ rules:
   '@typescript-eslint/explicit-function-return-type': off
   react-native/no-raw-text: off
   react-native/sort-styles: off
-  react-native/no-unused-styles: warn
+  react-native/no-unused-styles: off
+  react-native/no-color-literals: off
+  "@typescript-eslint/no-empty-function": off
