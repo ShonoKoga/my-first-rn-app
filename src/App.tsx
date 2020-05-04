@@ -4,11 +4,12 @@ import {
   // Image,
   // ScrollView,
   // FlatList,
-  SectionList,
+  // SectionList,
+  Touchable,
 } from './components';
 
 const Component = () => {
-  return <SectionList />;
+  return <Touchable />;
 };
 
 export default Component;
