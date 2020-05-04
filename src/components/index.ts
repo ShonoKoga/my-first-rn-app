@@ -6,3 +6,4 @@ export { default as SectionList } from './SectionList';
 export { default as Touchable } from './Touchable';
 export { default as TextInput } from './TextInput';
 export { default as StatusBar } from './StatusBar';
+export { default as ActivityIndicator } from './ActivityIndicator';

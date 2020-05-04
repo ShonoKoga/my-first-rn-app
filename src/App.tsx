@@ -7,11 +7,12 @@ import {
   // SectionList,
   // Touchable,
   // TextInput,
-  StatusBar,
+  // StatusBar,
+  ActivityIndicator,
 } from './components';
 
 const Component = () => {
-  return <StatusBar />;
+  return <ActivityIndicator />;
 };
 
 export default Component;
