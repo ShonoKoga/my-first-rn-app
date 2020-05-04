@@ -9,3 +9,4 @@ export { default as StatusBar } from './StatusBar';
 export { default as ActivityIndicator } from './ActivityIndicator';
 export { default as Switch } from './Switch';
 export { default as Alert } from './Alert';
+export { default as AppState } from './AppState';

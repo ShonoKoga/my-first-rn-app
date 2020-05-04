@@ -10,11 +10,12 @@ import {
   // StatusBar,
   // ActivityIndicator,
   // Switch,
-  Alert,
+  // Alert,
+  AppState,
 } from './components';
 
 const Component = () => {
-  return <Alert />;
+  return <AppState />;
 };
 
 export default Component;
