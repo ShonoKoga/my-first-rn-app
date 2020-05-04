@@ -29,4 +29,5 @@ rules:
   react-native/sort-styles: off
   react-native/no-unused-styles: off
   react-native/no-color-literals: off
-  "@typescript-eslint/no-empty-function": off
+  '@typescript-eslint/no-empty-function': off
+  react-native/no-inline-styles: off

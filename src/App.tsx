@@ -1,11 +1,14 @@
 import React from 'react';
 import {
   // Context,
-  Image,
+  // Image,
+  // ScrollView,
+  // FlatList,
+  SectionList,
 } from './components';
 
 const Component = () => {
-  return <Image />;
+  return <SectionList />;
 };
 
 export default Component;
